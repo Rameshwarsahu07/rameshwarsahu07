@@ -1,6 +1,5 @@
 <h1 align="center">Hi My Name is 𝐌𝐫.𝐑𝐀𝐌𝐄𝐒𝐇𝐖𝐀𝐑 𝐒𝐀𝐇𝐔 <br> 🆁🅸🅽🅺🆄 </h1>
-<h3 align="center">👩‍💻 
-𝙸 𝚊𝚖 𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚊𝚜 𝚠𝚎𝚕𝚕 𝚊𝚜 𝚊𝚗 𝚊𝚕𝚋𝚞𝚖 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚛 📸 </h3>
+<h3 align="center">👩‍💻 ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴀꜱ ᴡᴇʟʟ ᴀꜱ ᴀɴ ᴀʟʙᴜᴍ ᴅᴇꜱɪɢɴᴇʀ 📸 </h3>
 
 <h3 align="left">Follow me👇🏻</h3>
 <p align="left">
