@@ -7,7 +7,7 @@
 <a href="https://instagram.com/er_rameshwar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_rameshwar07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rinku sahu cs engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rinku sahu cs engineer" height="30" width="40" /></a>
 <a href="https://in.pinterest.com/rameshwarsahu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
-<a href="https://rameshwar07.blogspot.com/rameshwarsahu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
+<a href="https://rameshwar07.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
 
 </p>
 
