@@ -1,4 +1,4 @@
-<h1 align="center">Hi My Name is 𝐌𝐫.𝐑𝐀𝐌𝐄𝐒𝐇𝐖𝐀𝐑 𝐒𝐀𝐇𝐔 <br> 🆁🅸🅽🅺🆄 </h1>
+<h1 align="center">Hi My Self 𝐌𝐫.𝐑𝐀𝐌𝐄𝐒𝐇𝐖𝐀𝐑 𝐒𝐀𝐇𝐔 <br> 🆁🅸🅽🅺🆄 </h1>
 <h3 align="center">👩‍💻 ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴀꜱ ᴡᴇʟʟ ᴀꜱ ᴀɴ ᴀʟʙᴜᴍ ᴅᴇꜱɪɢɴᴇʀ 📸 </h3>
 
 <h3 align="left">Follow me👇🏻</h3>
