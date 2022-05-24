@@ -1,7 +1,7 @@
 <h1 align="center">Hi My Self 𝐌𝐫.𝐑𝐀𝐌𝐄𝐒𝐇𝐖𝐀𝐑 𝐒𝐀𝐇𝐔 <br> 🆁🅸🅽🅺🆄 </h1>
 <h3 align=" ">👩‍💻 ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴀꜱ ᴡᴇʟʟ ᴀꜱ ᴀɴ ᴀʟʙᴜᴍ ᴅᴇꜱɪɢɴᴇʀ 📸 </h3>
 
-𝗠𝘆 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 👉🏻 <a href="https://rameshwar07.blogspot.com/">🌐</a>
+𝘔𝘺 𝘞𝘦𝘣𝘴𝘪𝘵𝘦 👉🏻 <a href="https://rameshwar07.blogspot.com/">🌐</a>
 <h3 align="left">Follow me👇🏻</h3>
 <p align="left">
 <a href="https://fb.com/rameshwarsahu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
