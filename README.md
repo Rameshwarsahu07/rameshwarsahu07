@@ -12,6 +12,9 @@ My Website 👉🏻 <a href="https://rameshwar07.blogspot.com/"><image align="ce
 Download My Apk 👉🏻 <a href="https://appsgeyser.com/api/track/redirect?url=https%3A%2F%2Ffiles.appsgeyser.com%2FRameshwar%2520Tech_15585236.apk%3Fsrc%3Dpage"><image align="center" src="https://user-images.githubusercontent.com/102160977/179652610-8fd0558e-aa5c-477e-a70f-92a159e9406a.png" width="40"></a>
 
 
+My Resume 👉🏻 <a href="  https://drive.google.com/file/d/1rMpSBP_9wQnlCv5ex8RVYIjSoSZdPj5h/view?usp=drivesdk "><image align="center" src="https://user-images.githubusercontent.com/102160977/179652610-8fd0558e-aa5c-477e-a70f-92a159e9406a.png" width="40"></a>
+
+
 
 <h3 align="left">Follow me👇🏻</h3>
 <p align="left">
