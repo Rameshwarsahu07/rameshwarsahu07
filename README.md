@@ -15,7 +15,7 @@ Download My Apk 👉🏻 <a href="https://appsgeyser.com/api/track/redirect?url=
 My Resume 👉🏻 <a href="https://drive.google.com/file/d/1rMpSBP_9wQnlCv5ex8RVYIjSoSZdPj5h/view?usp=drivesdk"><image align="center" src="https://user-images.githubusercontent.com/102160977/188358133-3746a6c4-ee2c-4c05-a3f1-2b7fa7d9b5c6.jpg" width="40"></a>
 
 
-Digital Library 👉🏻 <a href="https://digilibrary123.blogspot.com/?m=1"><image align="center" src="https://user-images.githubusercontent.com/102160977/188358133-3746a6c4-ee2c-4c05-a3f1-2b7fa7d9b5c6.jpg" width="40"></a>
+Digital Library 👉🏻 <a href="https://digilibrary123.blogspot.com/?m=1"><image align="center" src="https://user-images.githubusercontent.com/102160977/202884942-209a4069-6ad2-4230-a7cd-014200acb475.jpg" width="80"></a>
 
 
 
