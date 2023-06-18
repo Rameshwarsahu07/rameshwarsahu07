@@ -12,7 +12,7 @@ My Website 👉🏻 <a href="https://rameshwar07.blogspot.com/"><image align="ce
 Download My Apk 👉🏻 <a href="https://appsgeyser.com/api/track/redirect?url=https%3A%2F%2Ffiles.appsgeyser.com%2FRameshwar%2520Tech_15585236.apk%3Fsrc%3Dpage"><image align="center" src="https://user-images.githubusercontent.com/102160977/179652610-8fd0558e-aa5c-477e-a70f-92a159e9406a.png" width="40"></a>
 
 
-My Resume 👉🏻 <a href="https://drive.google.com/file/d/1UH3Vld79KNYlvKMC2fu9ywEm0NmdXpww/view?usp=sharing"><image align="center" src="https://user-images.githubusercontent.com/102160977/188358133-3746a6c4-ee2c-4c05-a3f1-2b7fa7d9b5c6.jpg" width="40"></a>
+My Resume 👉🏻 <a href="https://drive.google.com/file/d/1P6Oz3N49wf50ObH8w4eLwG9Tw5ldPCwk/view?usp=sharing"><image align="center" src="https://user-images.githubusercontent.com/102160977/188358133-3746a6c4-ee2c-4c05-a3f1-2b7fa7d9b5c6.jpg" width="40"></a>
 
 
 Digital Library 👉🏻 <a href="https://digilibrary123.blogspot.com/?m=1"><image align="center" src="https://user-images.githubusercontent.com/102160977/202884942-209a4069-6ad2-4230-a7cd-014200acb475.jpg" width="80"></a>
