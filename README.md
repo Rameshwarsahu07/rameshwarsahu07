@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/102160977/170222556-9bb193ec-db6b-4f9d-883e-ebe6486e25d7.png" width="80">
 
 <h1 align="center">Hi My Self 
-  <br> 𝐄𝐫. 𝐑𝐚𝐦𝐞𝐬𝐡𝐰𝐚𝐫 𝐒𝐚𝐡𝐮<br> 🆁🅸🅽🅺🆄 </h1>
+  <br> ᴍʀ. ʀᴀᴍᴇꜱʜᴡᴀʀ ꜱᴀʜᴜ <br> 🆁🅸🅽🅺🆄 </h1>
 <h3 align=" ">👩‍💻 ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴀꜱ ᴡᴇʟʟ ᴀꜱ ᴀɴ ᴀʟʙᴜᴍ ᴅᴇꜱɪɢɴᴇʀ 📸 </h3>
 
 My Website 👉🏻 <a href="https://rameshwar07.blogspot.com/"><image align="center" src="https://user-images.githubusercontent.com/102160977/171975396-797cee59-180a-4544-bec1-b929c613ad5e.jpg" width="40"></a><br>
