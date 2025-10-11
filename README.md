@@ -2,6 +2,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/102160977/170222556-9bb193ec-db6b-4f9d-883e-ebe6486e25d7.png" width="80">
 
+<img align="right" src="https://user-images.githubusercontent.com/102160977/170222556-9bb193ec-db6b-4f9d-883e-ebe6486e25d7.png" width="80">
+
+
 
 <h1 align="center">Hi My Self 
   <br> ᴍʀ. ʀᴀᴍᴇꜱʜᴡᴀʀ ꜱᴀʜᴜ <br> 🆁🅸🅽🅺🆄 </h1>
