@@ -3,7 +3,7 @@
 
 
 
-<img align="left" width="80" height="80"  alt="Image" src="https://github.com/user-attachments/assets/d3a27af4-10d4-468d-a389-82bb140a16f4" />
+<img align="left" width="120" height="120"  alt="Image" src="https://github.com/user-attachments/assets/d3a27af4-10d4-468d-a389-82bb140a16f4" />
 
 
 <h1 align="right">Hi My Self 
