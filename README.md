@@ -3,10 +3,10 @@
 
 
 
-<img  width="200" height="200" align=" center" alt="Image" src="https://github.com/user-attachments/assets/d3a27af4-10d4-468d-a389-82bb140a16f4" />
+<img  width="200" height="200"  alt="Image" src="https://github.com/user-attachments/assets/d3a27af4-10d4-468d-a389-82bb140a16f4" />
 
 
-<h1 align="center">Hi My Self 
+<h1 align="left">Hi My Self 
   <br> ᴍʀ. ʀᴀᴍᴇꜱʜᴡᴀʀ ꜱᴀʜᴜ <br> 🆁🅸🅽🅺🆄 </h1>
 <h3 align=" ">👩‍💻 ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴀꜱ ᴡᴇʟʟ ᴀꜱ ᴀɴ ᴀʟʙᴜᴍ ᴅᴇꜱɪɢɴᴇʀ <a href="https://drive.google.com/drive/folders/1lRBIc1M8fBTHhTTnAn2wu-ioReR04bKD">📸</a> </h3>
 
