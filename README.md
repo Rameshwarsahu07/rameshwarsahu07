@@ -31,6 +31,7 @@ Digital Library 👉🏻 <a href="https://digilibrary123.blogspot.com/?m=1"><ima
 <a href="https://www.youtube.com/c/rinku sahu cs engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rinku sahu cs engineer" height="30" width="40" /></a>
 <a href="https://in.pinterest.com/rameshwarsahu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
 <a href="https://wa.me/+919926464350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
+<a href="https://instagram.com/er_rameshwar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_rameshwar07" height="30" width="40" /></a>
 
 
 
@@ -52,4 +53,5 @@ Digital Library 👉🏻 <a href="https://digilibrary123.blogspot.com/?m=1"><ima
 
 </p>
 
-![IMG_20220504_112446_542](https://user-images.githubusercontent.com/102160977/170187771-c5ac3bfe-60d3-43d2-b072-81ebd4afd889.jpg)
+
+<img width="1115" height="1440" alt="Image" src="https://github.com/user-attachments/assets/d2994c38-a51c-49b1-a27e-9cf4e2554925" />
