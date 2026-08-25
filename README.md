@@ -31,7 +31,7 @@ Digital Library 👉🏻 <a href="https://digilibrary123.blogspot.com/?m=1"><ima
 <a href="https://www.youtube.com/c/rinku sahu cs engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rinku sahu cs engineer" height="30" width="40" /></a>
 <a href="https://in.pinterest.com/rameshwarsahu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
 <a href="https://wa.me/+919926464350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="rameshwarsahu07" height="30" width="40" /></a>
-<a href="https://instagram.com/er_rameshwar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_rameshwar07" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/rameshwarsahu07" target="blank"><img align="center"width="35" height="35" alt="Image" src="https://github.com/user-attachments/assets/89949d11-88a7-4743-806d-1aa721d418b9" /></a>
 
 
 
